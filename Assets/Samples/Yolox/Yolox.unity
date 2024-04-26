@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.4439372, g: 0.49315345, b: 0.5721989, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -885,14 +885,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d0f5b2b41d1124323983c587328d098b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  model: {fileID: 1840921532545725537, guid: 10fc958f91d60496eb0802581a3e681e, type: 3}
+  model: {fileID: 1840921532545725537, guid: 42777e1e18d74d54d81c4ca479fc3867, type: 3}
   options:
     aspectMode: 1
     mean: {x: 0.485, y: 0.456, z: 0.406}
     std: {x: 0.229, y: 0.224, z: 0.225}
     executionProvider:
       executionProviderPriorities: 00000000
-    labelFile: {fileID: 4900000, guid: 4d3c55d55c69948b98a32b8d01d7f396, type: 3}
+    labelFile: {fileID: 4900000, guid: 87d8df0ed1d4acc46bc0e15707c67263, type: 3}
     maxDetections: 100
     probThreshold: 0.3
     nmsThreshold: 0.45

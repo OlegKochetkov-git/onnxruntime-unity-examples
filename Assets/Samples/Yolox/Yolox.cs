@@ -91,7 +91,7 @@ namespace Microsoft.ML.OnnxRuntime.Examples
         }
 
         public readonly ReadOnlyCollection<string> labelNames;
-        private const int NUM_CLASSES = 80;
+        private const int NUM_CLASSES = 3;
         private readonly Anchor[] anchors;
         private readonly Options options;
 
